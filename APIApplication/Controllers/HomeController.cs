@@ -14,5 +14,9 @@ namespace APIApplication.Controllers
 
             return View();
         }
+        public ActionReulst Test()
+        {
+            return View();
+        }
     }
 }
